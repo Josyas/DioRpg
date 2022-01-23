@@ -1,0 +1,16 @@
+D:\DioRpg\bin\Debug\net5.0\DioRpg.exe
+D:\DioRpg\bin\Debug\net5.0\DioRpg.deps.json
+D:\DioRpg\bin\Debug\net5.0\DioRpg.runtimeconfig.json
+D:\DioRpg\bin\Debug\net5.0\DioRpg.runtimeconfig.dev.json
+D:\DioRpg\bin\Debug\net5.0\DioRpg.dll
+D:\DioRpg\bin\Debug\net5.0\ref\DioRpg.dll
+D:\DioRpg\bin\Debug\net5.0\DioRpg.pdb
+D:\DioRpg\obj\Debug\net5.0\DioRpg.csproj.AssemblyReference.cache
+D:\DioRpg\obj\Debug\net5.0\DioRpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\DioRpg\obj\Debug\net5.0\DioRpg.AssemblyInfoInputs.cache
+D:\DioRpg\obj\Debug\net5.0\DioRpg.AssemblyInfo.cs
+D:\DioRpg\obj\Debug\net5.0\DioRpg.csproj.CoreCompileInputs.cache
+D:\DioRpg\obj\Debug\net5.0\DioRpg.dll
+D:\DioRpg\obj\Debug\net5.0\ref\DioRpg.dll
+D:\DioRpg\obj\Debug\net5.0\DioRpg.pdb
+D:\DioRpg\obj\Debug\net5.0\DioRpg.genruntimeconfig.cache
